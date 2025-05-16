@@ -4,7 +4,14 @@ Utilizing cloud technologies facilitates business transformation and provides sc
 
 ## Professional Expertise
 ---
-Cloud Solution Architecture  DevOps  Security  Networking  Databases  Compute  Storage  Migration
+Cloud Solution Architecture  
+DevOps  
+Security 
+Networking  
+Databases  
+Compute  
+Storage  
+Migration
 
 ## Technical Proficiencies
 ---
