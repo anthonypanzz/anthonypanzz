@@ -27,7 +27,7 @@ https://www.credly.com/badges/6d60e0ee-9204-4531-a674-d98a580cbc3f/public_url
 https://www.credly.com/badges/d95cf5b2-0f96-4681-b454-e44cfa33c03d/public_url
 
 ---
-## AWS Certified Solutions Archiect- Associate ##
+## AWS Certified Solutions Architect- Associate ##
 ![image](https://github.com/user-attachments/assets/59d665f7-0575-4207-bdc7-675a4ade1789)
 
 ![image](https://github.com/user-attachments/assets/062bbace-1bbd-4a6e-a4d3-68db22b8150c)
