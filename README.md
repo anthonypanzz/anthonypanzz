@@ -13,7 +13,7 @@ Passion for utilizing cloud technologies facilitating business transformation an
 ## AWS Authorized Instructor (AAI) ##
 ![image](https://github.com/user-attachments/assets/9780dc63-ea5f-4393-a496-4e96cf8f4245)
 
-Earning this badge have not only acquired the necessary skills but have also obtained the relevant credentials to effectively and confidently deliver AWS Training & Certification courses. This achievement signifies my comprehensive understanding of AWS technologies, teaching methodologies, and the ability to facilitate learning experiences that empower participants. This badge recognizes my commitment to excellence in education and my capability to engage learners in the practical application of AWS services and best practices.
+Earning this badge, I not only acquired the necessary skills but have also obtained the relevant credentials to effectively and confidently deliver AWS Training & Certification courses. This achievement signifies my comprehensive understanding of AWS technologies, teaching methodologies, and the ability to facilitate learning experiences that empower participants. This badge recognizes my commitment to excellence in education and my capability to engage learners in the practical application of AWS services and best practices.
 
 ---
 ## AWS Certified Solutions Architect- Professional ##
