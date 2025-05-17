@@ -11,7 +11,7 @@ Passion for utilizing cloud technologies facilitating business transformation an
 
 ---
 # 🏆 Certifications and Badges
-## AWS Authorized Instructor (AAI) ##
+## AWS Authorized Instructor (AAI) ##      https://www.credly.com/badges/6d60e0ee-9204-4531-a674-d98a580cbc3f/public_url
 ![image](https://github.com/user-attachments/assets/9780dc63-ea5f-4393-a496-4e96cf8f4245)
 
 ⚡ Earning this badge, I not only acquired the necessary skills but have also obtained the relevant credentials to effectively and confidently deliver AWS Training & Certification courses. This achievement signifies my comprehensive understanding of AWS technologies, teaching methodologies, and the ability to facilitate learning experiences that empower participants. This badge recognizes my commitment to excellence in education and my capability to engage learners in the practical application of AWS services and best practices.
