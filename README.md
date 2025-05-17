@@ -35,7 +35,7 @@ Passion for utilizing cloud technologies facilitating business transformation an
 ## AWS Certified Cloud Practitioner ##
 ![image](https://github.com/user-attachments/assets/d2b9b9c7-f6f0-4645-a095-8b0f89657e80)
 
-☁️ Acquiring this certification, I developed a solid grasp of IT services and their applications within the AWS Cloud ecosystem. I have developed a strong cloud fluency and possess foundational knowledge of AWS architecture and services. This enables me to recognize and differentiate the key AWS services essential for successfully initiating and managing AWS-focused projects. I understand not only how to deploy these services but also their roles in optimizing performance, ensuring security, and facilitating scalability within cloud environments.
+💡 Acquiring this certification, I developed a solid grasp of IT services and their applications within the AWS Cloud ecosystem. I have developed a strong cloud fluency and possess foundational knowledge of AWS architecture and services. This enables me to recognize and differentiate the key AWS services essential for successfully initiating and managing AWS-focused projects. I understand not only how to deploy these services but also their roles in optimizing performance, ensuring security, and facilitating scalability within cloud environments.
 
 ---
 ## CompTIA Security+ ##
