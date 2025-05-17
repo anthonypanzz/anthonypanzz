@@ -10,7 +10,7 @@ Connect with me - www.linkedin.com/in/anthony-panzarella-aws-csap-032a661a6
 Passion for utilizing cloud technologies facilitating business transformation and providing scalable, secure, and cost-efficient IT solutions. Continuous learner, thrive on tackling difficult tasks, and enjoy collaborating with others. My goal is always to strive for excellence and ensure successful business outcomes.
 
 ---
-# Certifications and Badges
+# Certifications and Badges 🚀 🏆
 ## AWS Authorized Instructor (AAI) ##
 ![image](https://github.com/user-attachments/assets/9780dc63-ea5f-4393-a496-4e96cf8f4245)
 
