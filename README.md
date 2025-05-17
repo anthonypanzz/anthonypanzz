@@ -1,4 +1,6 @@
 # Welcome to my GitHub Portfolio 👋
+
+Connect with me - www.linkedin.com/in/anthony-panzarella-aws-csap-032a661a6
 ---
 
 # Professional Statement
