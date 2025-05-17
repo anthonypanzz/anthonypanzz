@@ -40,7 +40,7 @@ Passion for utilizing cloud technologies facilitating business transformation an
 ---
 ## CompTIA Security+ ##
 ![image](https://github.com/user-attachments/assets/43b75bfe-fb88-4f4c-831f-34ffc57ed75e)
-Earning the CompTIA Security+ certification demonstrates the knowledge and skills required to perform critical security functions in any cybersecurity role. I can identify and address potential threats, attacks, and vulnerabilities, and I have established techniques for risk management, risk mitigation, threat management, and intrusion detection.
+🔒 Earning the CompTIA Security+ certification demonstrates the knowledge and skills required to perform critical security functions in any cybersecurity role. I can identify and address potential threats, attacks, and vulnerabilities, and I have established techniques for risk management, risk mitigation, threat management, and intrusion detection.
 
 
 
