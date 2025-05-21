@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio 👋
+# Welcome to my Portfolio 👋
 
 🌐 Connect with me - www.linkedin.com/in/anthony-panzarella-aws-csap-032a661a6
 📫 anthonypanzz@gmail.com
