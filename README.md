@@ -5,9 +5,10 @@
 
 ---
 
-# 🚀 Professional Statement
-
-Passion for utilizing cloud technologies facilitating business transformation and providing scalable, secure, and cost-efficient IT solutions. Continuous learner, thrive on tackling difficult tasks, and enjoy collaborating with others. My goal is always to strive for excellence and ensure successful business outcomes.
+ 🚀 Versatile Project Manager/Engineer with 8 years of experience delivering optimal IT infrastructure and communication systems projects, including design, deployment, and support of mission-critical communication solutions. Proven success in managing cross-functional teams, coordinating field engineering efforts, and driving high-reliability technology deployments for public safety, emergency services, and government clients. 
+ 
+ Accomplished and certified Cloud Solutions Architect with 4+ years of practical experience architecting, managing, supporting, and optimizing systems design and infrastructure. Proficient in identifying and resolving system and service problems, improving customer satisfaction. AWS Authorized Instructor with a background in teaching others how to design, engineer, and troubleshoot within the AWS ecosystem. 
+ 
 
 ---
 # 🏆 Certifications and Badges
