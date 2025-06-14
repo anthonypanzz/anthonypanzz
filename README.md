@@ -1,6 +1,6 @@
 # Welcome to my Portfolio 👋
 
-🌐 Connect with me - www.linkedin.com/in/anthony-panzarella-aws-csap-032a661a6
+🌐 Connect with me - www.linkedin.com/in/anthony-panzarella
 📫 anthonypanzz@gmail.com
 
 ---
