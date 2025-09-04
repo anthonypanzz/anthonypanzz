@@ -9,7 +9,7 @@
  
  Accomplished and certified Cloud Solutions Architect with 5 years of practical experience architecting, managing, supporting, and optimizing systems design and infrastructure. Proficient in identifying and resolving system and service problems, improving customer satisfaction. 
 
-AWS Authorized Instructor with a background in teaching others how to design, engineer, and troubleshoot within the AWS ecosystem. 
+AWS Authorized Instructor with a background in teaching learners how to design, engineer, and troubleshoot within the AWS ecosystem. 
  
 
 ---
