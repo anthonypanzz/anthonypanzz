@@ -7,10 +7,9 @@
 
  🚀 IT Engineer with 8 years of experience delivering optimal IT infrastructure and communication systems projects, including design, deployment, and support of mission-critical communication solutions. Proven success in managing cross-functional teams, coordinating field engineering efforts, and driving high-reliability technology deployments for public safety, emergency services, and government clients. 
  
- Accomplished and certified Cloud Solutions Architect with 5 years of practical experience architecting, managing, supporting, and optimizing systems design and infrastructure. Proficient in identifying and resolving system and service problems, improving customer satisfaction. 
+ Accomplished and certified AWS Solutions Architect with 5 years experience architecting highly available, resilient and secure system architectures in the AWS cloud. Proficient in identifying and resolving systems design challenges, improving customer satisfaction. I am an AWS Authorized Instructor with a background in teaching learners how to design, engineer, and troubleshoot within the AWS ecosystem. 
 
-AWS Authorized Instructor with a background in teaching learners how to design, engineer, and troubleshoot within the AWS ecosystem. 
- 
+Strong skills and experience architecting on AWS, which include designing, maintaining, and troubleshooting EC2 instances, S3 buckets, Virtual Private Clouds (VPC), Elastic Load Balancers (ELB), Relational Database Service (RDS), serverless and event-driven architectures, infrastructure as code tools like CloudFormation and Terraform.
 
 ---
 # 🏆 Certifications and Badges
