@@ -10,6 +10,7 @@
 Strong skills and experience architecting on AWS, which include designing, maintaining, and troubleshooting EC2 instances, S3 buckets, Virtual Private Clouds (VPC), Elastic Load Balancers (ELB), Relational Database Service (RDS), serverless and event-driven architectures, infrastructure as code tools like CloudFormation and Terraform.
 
 IT Engineer in Telecommunications with 8 years of experience in designing, deploying, and maintaining critical communications infrastructure. Specializing in IP-based network communications and cloud technology for public safety and utility sectors. Recognized for problem solving in high-availability environments and reducing system downtime. 
+
 ---
 # 🏆 Certifications and Badges
 ## AWS Authorized Instructor (AAI) ##      
