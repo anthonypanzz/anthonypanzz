@@ -1,6 +1,6 @@
 # Welcome to my Portfolio 👋
 
-# Check out my cloud projects👉 https://github.com/anthonypanzz?tab=repositories 
+# Check out my cloud projects👇 https://github.com/anthonypanzz?tab=repositories 
 
 🌐 Connect with me - www.linkedin.com/in/anthony-panzarella
 📫 anthonypanzz@gmail.com
