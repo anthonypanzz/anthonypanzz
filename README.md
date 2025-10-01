@@ -1,6 +1,6 @@
 # Welcome to my Portfolio 👋
 
-# Cloud Architecting and Engineering projects: https://github.com/anthonypanzz?tab=repositories 
+# Cloud Architecting and Engineering Projects: https://github.com/anthonypanzz?tab=repositories 
 
 🌐 Connect with me - www.linkedin.com/in/anthony-panzarella
 📫 anthonypanzz@gmail.com
