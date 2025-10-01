@@ -9,7 +9,7 @@
 
  🚀 Accomplished and certified AWS Solutions Architect with 5 years experience architecting highly available, resilient and secure system architectures in the AWS cloud. Proficient in identifying and resolving systems design challenges, improving customer satisfaction. I am an AWS Authorized Instructor with a background in teaching learners how to design, engineer, and troubleshoot within the AWS ecosystem. 
 
-Strong skills and experience architecting on AWS, which include designing, maintaining, and troubleshooting EC2 instances, S3 buckets, Virtual Private Clouds (VPC), Elastic Load Balancers (ELB), Relational Database Service (RDS), serverless and event-driven architectures, infrastructure as code tools like CloudFormation and Terraform.
+Strong skills and experience designing and engineering on AWS, which include designing, maintaining, and troubleshooting EC2 instances, S3 buckets, Virtual Private Clouds (VPC), Elastic Load Balancers (ELB), Relational Database Service (RDS), serverless and event-driven architectures, infrastructure as code tools like CloudFormation and Terraform.
 
 Senior IT Engineer in Telecommunications with 8 years of experience in designing, deploying, and maintaining critical communications infrastructure. Specializing in IP-based network communications and cloud technology for public safety and utility sectors. Recognized for problem solving in high-availability environments and reducing system downtime. 
 
