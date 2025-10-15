@@ -7,7 +7,7 @@
 
 ---
 
- 🚀 Accomplished Cloud Engineer with 5 years of experience architecting and engineering highly available, resilient, and secure system architectures in the cloud. Proficient in identifying and resolving systems design challenges, improving customer satisfaction. I am an AWS Authorized Instructor with a background in teaching learners how to design, engineer, and troubleshoot within the AWS ecosystem. 
+ 🚀 Accomplished Cloud Engineer with 5 years of experience architecting and engineering highly available, resilient, and secure system architectures in the AWS cloud. Proficient in identifying and resolving systems design challenges, improving customer satisfaction. I am an AWS Authorized Instructor with a background in teaching learners how to design, engineer, and troubleshoot within the AWS ecosystem. 
 
 Extensive experience architecting and engineering on AWS, which includes designing, building, maintaining, and troubleshooting core services, including Identity and Access Management (IAM), EC2 & S3 security, Virtual Private Clouds (VPC), containerization and orchestration tools like Docker, ECS, ECR, and Kubernetes with EKS, Elastic Load Balancers (ELB), Relational Database Service (RDS), serverless and event-driven architectures, infrastructure as code tools like CloudFormation and Terraform.
 
