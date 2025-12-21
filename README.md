@@ -11,7 +11,7 @@
 
 Extensive experience architecting and engineering on AWS, which includes designing, building, maintaining, and troubleshooting core services, including Identity and Access Management (IAM), EC2 & S3 security, Virtual Private Clouds (VPC), containerization and orchestration tools like Docker, ECS, ECR, and Kubernetes with EKS, Elastic Load Balancers (ELB), Relational Database Service (RDS), serverless and event-driven architectures, infrastructure as code tools like CloudFormation and Terraform.
 
-Senior IT Engineer with 8 years of experience in designing, deploying, and maintaining critical communications infrastructure. Specializing in IP-based network communications and cloud technology for public safety and utility sectors. Recognized for problem solving in high-availability environments and reducing system downtime. 
+Senior Telecom Engineer with 8 years of experience in designing, deploying, and maintaining critical communications infrastructure. Specializing in IP-based network communications and cloud technology for public safety and utility sectors. Recognized for problem solving in high-availability environments and reducing system downtime. 
 
 ---
 # 🏆 Certifications and Badges
