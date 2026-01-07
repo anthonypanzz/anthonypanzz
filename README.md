@@ -51,7 +51,7 @@ https://www.credly.com/badges/42be57ca-df96-4aea-94a8-59c25c62d615/public_url
 https://www.credly.com/badges/8b4e47db-20e7-4fa7-ac35-69e3882dca06/public_url
 
 ---
-## CompTIA Security+ ##
+## CompTIA Security+ CE ##
 ![image](https://github.com/user-attachments/assets/43b75bfe-fb88-4f4c-831f-34ffc57ed75e)
 🔒 Earning the CompTIA Security+ certification demonstrates the knowledge and skills required to perform critical security functions in any cybersecurity role. I can identify and address potential threats, attacks, and vulnerabilities, and I have established techniques for risk management, risk mitigation, threat management, and intrusion detection.
 
