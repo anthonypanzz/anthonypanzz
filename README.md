@@ -15,12 +15,12 @@ Senior Telecom Engineer with 8 years of experience in designing, deploying, and 
 
 ---
 # 🏆 Certifications and Badges
-## AWS Authorized Instructor (AAI) ##      
-![image](https://github.com/user-attachments/assets/9780dc63-ea5f-4393-a496-4e96cf8f4245)
 
-⚡ Earning this badge, I not only acquired the necessary skills but have also obtained the relevant credentials to effectively and confidently deliver AWS Training & Certification courses. This achievement signifies my comprehensive understanding of AWS technologies, teaching methodologies, and the ability to facilitate learning experiences that empower participants. This badge recognizes my commitment to excellence in education and my capability to engage learners in the practical application of AWS services and best practices.
+## CompTIA Security+ ce ##
+![image](https://github.com/user-attachments/assets/43b75bfe-fb88-4f4c-831f-34ffc57ed75e)
+🔒 Earning the CompTIA Security+ certification demonstrates the knowledge and skills required to perform critical security functions in any cybersecurity role. I can identify and address potential threats, attacks, and vulnerabilities, and I have established techniques for risk management, risk mitigation, threat management, and intrusion detection.
 
-https://www.credly.com/badges/6d60e0ee-9204-4531-a674-d98a580cbc3f/public_url
+https://www.credly.com/badges/5b2b4bf2-8438-49d7-8a2c-5814b00144b5/public_url
 
 ---
 ## AWS Certified Solutions Architect- Professional ##
@@ -43,6 +43,16 @@ https://www.credly.com/badges/e9b514c9-f938-4de0-85b0-2dd7dafce4aa/public_url |
 https://www.credly.com/badges/42be57ca-df96-4aea-94a8-59c25c62d615/public_url
 
 ---
+
+## AWS Authorized Instructor (AAI) ##      
+![image](https://github.com/user-attachments/assets/9780dc63-ea5f-4393-a496-4e96cf8f4245)
+
+⚡ Earning this badge, I not only acquired the necessary skills but have also obtained the relevant credentials to effectively and confidently deliver AWS Training & Certification courses. This achievement signifies my comprehensive understanding of AWS technologies, teaching methodologies, and the ability to facilitate learning experiences that empower participants. This badge recognizes my commitment to excellence in education and my capability to engage learners in the practical application of AWS services and best practices.
+
+https://www.credly.com/badges/6d60e0ee-9204-4531-a674-d98a580cbc3f/public_url
+
+---
+
 ## AWS Certified Cloud Practitioner ##
 ![image](https://github.com/user-attachments/assets/d2b9b9c7-f6f0-4645-a095-8b0f89657e80)
 
@@ -50,12 +60,7 @@ https://www.credly.com/badges/42be57ca-df96-4aea-94a8-59c25c62d615/public_url
 
 https://www.credly.com/badges/8b4e47db-20e7-4fa7-ac35-69e3882dca06/public_url
 
----
-## CompTIA Security+ ce ##
-![image](https://github.com/user-attachments/assets/43b75bfe-fb88-4f4c-831f-34ffc57ed75e)
-🔒 Earning the CompTIA Security+ certification demonstrates the knowledge and skills required to perform critical security functions in any cybersecurity role. I can identify and address potential threats, attacks, and vulnerabilities, and I have established techniques for risk management, risk mitigation, threat management, and intrusion detection.
 
-https://www.credly.com/badges/5b2b4bf2-8438-49d7-8a2c-5814b00144b5/public_url
 
 
 
