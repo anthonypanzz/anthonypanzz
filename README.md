@@ -7,11 +7,11 @@
 
 ---
 
- 🚀 Accomplished Cloud Engineer with 5 years of experience architecting and engineering highly available, resilient, and secure system architectures in the AWS cloud. Proficient in troubleshooting and resolving cloud system challenges, improving business performance. I am an AWS Authorized Instructor with a background in teaching learners how to design, engineer, and troubleshoot within the AWS ecosystem. I'm a family man and have a passion for cloud computing and fitness. 
+ 🚀 I’m a Cloud Engineer with 5+ years of experience designing and running secure, highly available systems on AWS. I enjoy solving complex infrastructure problems and helping teams build platforms that are secure, reliable, scalable, and easy to operate.
 
-Extensive experience architecting and engineering on AWS, which includes designing, building, maintaining, and troubleshooting core services, including Identity and Access Management (IAM), EC2, Virtual Private Clouds (VPC), and S3 security, containerization and orchestration tools like Docker, ECS, ECR, and Kubernetes with EKS, Elastic Load Balancers (ELB), Relational Database Service (RDS), serverless and event-driven architectures, infrastructure as code tools like Terraform and CloudFormation.
+I’ve spent my career working hands-on with core AWS services from IAM, networking, and security to compute, storage, containers, and serverless architectures. I regularly design, build, and troubleshoot cloud environments using tools like Terraform, and I have a passion with strong experience in cloud security. 
 
-Senior Telecom Engineer with 8 years of experience in designing, deploying, and maintaining critical communications infrastructure. Specializing in IP-based network communications and cloud technology for public safety and utility sectors. Recognized for problem solving in high-availability environments and reducing system downtime. 
+Outside of work, I’m a family man who enjoys staying active and continuing to learn and grow in cloud computing.
 
 ---
 # 🏆 Certifications and Badges
