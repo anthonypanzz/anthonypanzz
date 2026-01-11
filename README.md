@@ -37,7 +37,7 @@ https://www.credly.com/badges/d95cf5b2-0f96-4681-b454-e44cfa33c03d/public_url
 ![image](https://github.com/user-attachments/assets/062bbace-1bbd-4a6e-a4d3-68db22b8150c)
 
 
-🛠️ Obtaining this certification necessitates a thorough knowledge of AWS services and technologies. I showcase my capability to create secure and robust solutions by applying architectural design principles tailored to meet specific customer requirements. My expertise allows me to strategically design well-architected distributed systems that prioritize scalability, resilience, and efficiency. I focus on building systems that not only withstand failures but also recover quickly, ensuring fault tolerance and seamless operation. This holistic approach enables me to deliver high-quality cloud solutions that align with best practices, cater to business needs, and enhance overall performance.
+🛠️ Obtaining this certification necessitates a thorough knowledge of AWS services and technologies. I showcase my capability to create secure and robust solutions by applying architectural design principles tailored to meet specific customer requirements. My expertise allows me to strategically design well-architected distributed systems that prioritize scalability, resilience, and efficiency.
 
 https://www.credly.com/badges/e9b514c9-f938-4de0-85b0-2dd7dafce4aa/public_url |
 https://www.credly.com/badges/42be57ca-df96-4aea-94a8-59c25c62d615/public_url
