@@ -7,7 +7,7 @@
 
 ---
 
- 🚀 I’m a Cloud Engineer with 5+ years of experience designing and running secure, highly available systems on AWS. I enjoy solving complex infrastructure problems and helping teams build platforms that are secure, reliable, scalable, and easy to operate.
+ 🚀 I’m a Cloud DevOps Engineer with 5+ years of experience designing and running secure, highly available systems on AWS. I enjoy solving complex infrastructure problems and helping teams build platforms that are secure, reliable, scalable, and easy to operate.
 
 I’ve spent my career working hands-on with core AWS services from IAM, networking, and security to compute, storage, containers, and serverless architectures. I regularly design, build, and troubleshoot cloud environments using tools like Terraform, and I have a passion with strong experience in cloud security. 
 
