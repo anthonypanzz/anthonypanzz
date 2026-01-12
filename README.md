@@ -1,6 +1,6 @@
 # Welcome to my Portfolio 👋
 
-# Cloud and Security Engineering Projects: https://github.com/anthonypanzz?tab=repositories 
+# Cloud DevOps and Security Engineering Projects: https://github.com/anthonypanzz?tab=repositories 
 
 🌐 Connect with me - www.linkedin.com/in/anthony-panzarella
 📫 anthonypanzz@gmail.com
